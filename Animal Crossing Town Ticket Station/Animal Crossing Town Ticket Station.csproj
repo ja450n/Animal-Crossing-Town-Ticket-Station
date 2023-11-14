@@ -8,6 +8,7 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <ApplicationIcon>UI_BrianMp16Logo.ico</ApplicationIcon>
+    <UseWPF>False</UseWPF>
   </PropertyGroup>
 
   <ItemGroup>
@@ -26,7 +27,7 @@
 
   <ItemGroup>
     <Reference Include="ACPasswordLibrary.Core.AnimalCrossing">
-      <HintPath>..\..\..\..\Downloads\net6.0 (3)\net6.0\ACPasswordLibrary.Core.AnimalCrossing.dll</HintPath>
+      <HintPath>..\ACPasswordLibrary.Core.AnimalCrossing.dll</HintPath>
     </Reference>
   </ItemGroup>
 
