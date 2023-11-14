@@ -1,0 +1,7 @@
+
+.vs/
+Animal Crossing Town Ticket Station/bin/
+Animal Crossing Town Ticket Station/obj/
+#Ignoring these as they've come from an unknown place
+ACPasswordLibrary.Core.AnimalCrossing.dll
+ACPasswordLibrary.Core.AnimalCrossing.pdb
